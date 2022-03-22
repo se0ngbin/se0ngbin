@@ -4,6 +4,7 @@
 - 📫 How to reach me: parkseongbin@ucla.edu
 
 Deployed Projects:
+- Personal website/portfolio: [portfolio](https://se0ngbin.github.io/portfolio/)
 - Our take on 3d tetris: [blockbussin](https://lenchennychen.github.io/blockbussin/)
 - Calculator using react: [calculator](https://se0ngbin.github.io/react-calculator/)
 <!---
