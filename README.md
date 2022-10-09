@@ -12,6 +12,8 @@
 - Personal website/portfolio: [portfolio](https://se0ngbin.github.io/portfolio/)
 - Calculator using react: [calculator](https://se0ngbin.github.io/react-calculator/)
 - Website for previous version of Traces: [mytraces](https://www.mytraces.org)
+- Dating App: [player meets hangman](https://github.com/se0ngbin/player-meets-hangman)
+- Etch-a-sketch: [repo](https://github.com/se0ngbin/etchasketch)
 
 ### Game Development / Graphics:
 - Our take on 3d tetris: [blockbussin](https://lenchennychen.github.io/blockbussin/)
