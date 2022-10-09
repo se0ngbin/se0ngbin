@@ -12,8 +12,6 @@
 - Personal website/portfolio: [portfolio](https://se0ngbin.github.io/portfolio/)
 - Calculator using react: [calculator](https://se0ngbin.github.io/react-calculator/)
 - Website for previous version of Traces: [mytraces](https://www.mytraces.org)
-- Dating App: [player meets hangman](https://github.com/se0ngbin/player-meets-hangman)
-- Etch-a-sketch: [repo](https://github.com/se0ngbin/etchasketch)
 
 ### Game Development / Graphics:
 - Our take on 3d tetris: [blockbussin](https://lenchennychen.github.io/blockbussin/)
@@ -21,7 +19,7 @@
 ### Machine Learning
 - My [blog](https://blog.seongbin.me)
 - Yeezy classifier: [repo](https://github.com/se0ngbin/yeezy-classifier)
-- Depression classifier: [repo](https://github.com/se0ngbin/depression-classifier)
+- Depression classifier: 
 
 <!---
 se0ngbin/se0ngbin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
