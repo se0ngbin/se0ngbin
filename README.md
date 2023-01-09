@@ -22,6 +22,7 @@
 - Our take on 3d tetris: [blockbussin](https://lenchennychen.github.io/blockbussin/)
 
 ### Machine Learning
+- Contributed to my lab's open source package: [climate-learn](https://github.com/aditya-grover/climate-learn)
 - My [blog](https://blog.seongbin.me)
 - Yeezy classifier: [repo](https://github.com/se0ngbin/yeezy-classifier)
 - Depression classifier: [repo](https://github.com/se0ngbin/depression-classifier)
