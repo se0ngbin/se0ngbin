@@ -5,8 +5,11 @@
 - 📫 How to reach me: parkseongbin@ucla.edu
 
 ## Deployed Projects
-### Mobile development:
-- Journaling app (Traces) using react native and firebase: [app store link](https://apps.apple.com/gb/app/traces-record-rate-rewind/id1622948360)
+### Machine Learning
+- Contributed to my lab's open source package: [climate-learn](https://github.com/aditya-grover/climate-learn)
+- My [blog](https://blog.seongbin.me)
+- Yeezy classifier: [repo](https://github.com/se0ngbin/yeezy-classifier)
+- Depression classifier: [repo](https://github.com/se0ngbin/depression-classifier)
 
 ### Frontend Web development
 - Personal website/portfolio: [portfolio](https://se0ngbin.github.io/portfolio/)
@@ -21,11 +24,6 @@
 ### Game Development / Graphics:
 - Our take on 3d tetris: [blockbussin](https://lenchennychen.github.io/blockbussin/)
 
-### Machine Learning
-- Contributed to my lab's open source package: [climate-learn](https://github.com/aditya-grover/climate-learn)
-- My [blog](https://blog.seongbin.me)
-- Yeezy classifier: [repo](https://github.com/se0ngbin/yeezy-classifier)
-- Depression classifier: [repo](https://github.com/se0ngbin/depression-classifier)
 
 <!---
 se0ngbin/se0ngbin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
