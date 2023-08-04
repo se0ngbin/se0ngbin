@@ -5,6 +5,8 @@
 - 📫 How to reach me: parkseongbin@ucla.edu
 
 ## Deployed Projects
+### Hackathon
+- Qiskit Fall Fest Hackathon 2nd Place: [quantum POW](https://github.com/Anastasia-Sim/PoW-QCSA-fa22)
 ### Machine Learning
 - Contributed to my lab's open source package: [climate-learn](https://github.com/aditya-grover/climate-learn)
 - My [blog](https://blog.seongbin.me)
