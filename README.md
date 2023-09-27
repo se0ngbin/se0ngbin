@@ -1,7 +1,7 @@
 ## About Me
 - 👋 Hi, I’m @se0ngbin. I study CS at UCLA.
 - 👀 I’m interested in dance, math, and computer science!
-- 🌱 I’m currently learning machine learning with pytorch and blockchain technologies!
+- 🌱 I’m currently learning about database internals and GANs!
 - 📫 How to reach me: parkseongbin@ucla.edu
 
 ## Deployed Projects
@@ -9,6 +9,7 @@
 - Qiskit Fall Fest Hackathon 2nd Place: [quantum POW](https://github.com/Anastasia-Sim/PoW-QCSA-fa22)
 ### Machine Learning
 - Contributed to my lab's open source package: [climate-learn](https://github.com/aditya-grover/climate-learn)
+- Fine tuning climate model for specific tasks: [climaX](https://github.com/se0ngbin/ClimaX/tree/main/notebooks)
 - My [blog](https://blog.seongbin.me)
 - Yeezy classifier: [repo](https://github.com/se0ngbin/yeezy-classifier)
 - Depression classifier: [repo](https://github.com/se0ngbin/depression-classifier)
